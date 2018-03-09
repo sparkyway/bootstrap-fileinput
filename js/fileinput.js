@@ -4253,7 +4253,7 @@
     $.fn.fileinputLocales.en = {
         fileSingle: 'file',
         filePlural: 'files',
-        browseLabel: 'Browse &hellip;',
+        browseLabel: 'Upload photo &hellip;',
         removeLabel: 'Remove',
         removeTitle: 'Clear selected files',
         cancelLabel: 'Cancel',
@@ -4313,7 +4313,7 @@
             uploadBatch: 'batch file upload',
             uploadExtra: 'form data upload'
         },
-        dropZoneTitle: 'Drag & drop files here &hellip;',
+        dropZoneTitle: 'Drop a photo here to upload &hellip;',
         dropZoneClickTitle: '<br>(or click to select {files})',
         previewZoomButtonTitles: {
             prev: 'View previous file',
